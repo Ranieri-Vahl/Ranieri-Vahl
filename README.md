@@ -5,7 +5,6 @@
 
 
 [![Ranieri Vahl GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=dracula)](https://github.com/Ranieri-Vahl/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact)](https://github.com/Ranieri-Vahl/github-readme-stats)
 
 ### Skills/Tecnologies 🧑🏻‍💻
 
