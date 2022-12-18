@@ -4,8 +4,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991351012)
 
 
-[![Ranieri Vahl GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=dracula)](https://github.com/Ranieri-Vahl/github-readme-stats)
-![Ranieri Vahl GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=7&theme=dracula")
+[![Ranieri Vahl GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=dracula)](https://github.com/Ranieri-Vahl/github-readme-stats)![Ranieri Vahl GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=7&theme=dracula")
 
 ### Skills/Tecnologies 🧑🏻‍💻
 
