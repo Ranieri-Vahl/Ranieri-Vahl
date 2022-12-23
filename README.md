@@ -4,11 +4,12 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991351012)
 
 
-<div style= "display: inline_block">
+<div>
   
-  <img  height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
 <br>
 
 ## Skills/Tecnologies 🧑🏻‍💻
