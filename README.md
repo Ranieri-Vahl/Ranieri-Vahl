@@ -1,4 +1,4 @@
-### Hello ! I am Ranieri Vahl 👋🏼
+## Hello ! I am Ranieri Vahl 👋🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranieri-vahl/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991351012)
@@ -6,7 +6,7 @@
 
 [![Ranieri Vahl GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=dracula)](https://github.com/Ranieri-Vahl/github-readme-stats)
 
-### Skills/Tecnologies 🧑🏻‍💻
+## Skills/Tecnologies 🧑🏻‍💻
 
 <div style= "display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
