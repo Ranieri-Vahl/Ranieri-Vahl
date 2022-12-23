@@ -10,7 +10,6 @@
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-<br>
 
 ## Skills/Tecnologies 🧑🏻‍💻
 <div  align="center">
