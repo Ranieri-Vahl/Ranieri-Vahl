@@ -10,9 +10,9 @@
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-
+<div style= "display: block" width="100%"></div>
 ## Skills/Tecnologies 🧑🏻‍💻
-<div  align="center">
+<div >
   <div style= "display: block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
      <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
