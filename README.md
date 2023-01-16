@@ -5,10 +5,8 @@
 
 
 <div>
-
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=Ranieri-Vahl&show_icons=true&theme=great-gatsby&include_all_commits=true"/>
   <img align="right" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieri-Vahl&layout=compact&langs_count=16&theme=great-gatsby"/>
-
 </div>
 <br>
 
